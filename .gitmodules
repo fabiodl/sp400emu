@@ -1,0 +1,3 @@
+[submodule "m68emu"]
+	path = m68emu
+	url = https://github.com/fabiodl/m68emu.git
